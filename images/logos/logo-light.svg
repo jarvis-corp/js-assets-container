@@ -1,0 +1,82 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 376" width="500" height="501">
+	<title>logo-light-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m163.82 30.44h43.05v62.35h-43.05z"/>
+		</clipPath>
+		<image  width="184" height="71" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALgAAABHCAMAAACDKX05AAAAAXNSR0IB2cksfwAAADZQTFRFAAAAGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YGH/YFB8J/wAAABJ0Uk5TABqPfC7/3p9/XwBSbhYRE9W5nklzhgAAARxJREFUeJzt1msKwjAQReGq1TS+3f9mRQU1NY/7QyanMGcFH5ch7TB8tVrLbQZS41Zu19ua5HDrHG6dw61zuHUOt87h1jncOodbV4SHKSksAx6muJ8VAx6eUT879LYmzeEl9aPe1qQUHspqNHyqsbnw+txceGNuKrw5NxTenpsJl9xAeMUdP1/9Y29r0lh2x9cvyjvcJz/rjokZCc+4M2oePPyyc2oefP5+l9g0+Ell0+CpeyqzyfDa3GR4dW4wvOWmwptuKLztZsJj282E198TLlw4FCRcORQkXDkUIlwbHAjXBufBxcF5cHFwHFwdHAeX3nAiXL0UGly+FBpcvhSH/yf9xGHws+yGwU8ON26x8MtV7tbb6nme5y27O7kXQ3aW1LLjAAAAAElFTkSuQmCC"/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m157 48h80v78h-80z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m164.81 41.69l78.48 14.44-13.96 75.82-78.47-14.45z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m203.98 48.9c-21.63-3.98-42.29 9.76-46.15 30.7-3.85 20.93 10.56 41.13 32.2 45.11 21.63 3.98 42.29-9.76 46.14-30.7 3.85-20.93-10.56-41.13-32.19-45.11z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m82.6 211h123.4v134h-123.4z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m163 59h129.6v284h-129.6z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #187fd8 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<use id="Layer" href="#img1" x="151" y="30"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp3)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp4)">
+						<g id="Layer">
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp5)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m205.1 261.1v-35.2h-0.9c-17.7 0-31.3-5-40.2-14.5v87.2c0 5.4-0.9 9-2.7 10.6-1.6 1.5-4.4 2.3-8.6 2.5-0.7 0.1-1.5 0.1-2.3 0.1h-13.1q-8.1 0-10.8-2.6-2.7-2.4-2.7-10.6v-47h-41.2v53.3q0 39.8 42.1 39.8h38.4q3.7 0 7.1-0.3c6.7-0.6 12.4-2.1 17.1-4.5q17.8-9 17.8-35z"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp6)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m250.8 181.5h-33.9c-1.1 0-2.1-0.1-3-0.2q-0.5 0-0.9-0.1-1.1-0.1-2-0.3-0.4-0.1-0.7-0.2c-0.6-0.2-1.1-0.4-1.6-0.6-0.1 0-0.1 0-0.2-0.1q-0.9-0.4-1.5-1-1.2-1.1-1.9-3.1v-77.8q0.7-2.1 1.9-3.2c0.4-0.3 0.9-0.7 1.5-1 0.1 0 0.1 0 0.2 0 0.5-0.2 1-0.4 1.6-0.6q0.3-0.1 0.7-0.2c0.6-0.2 1.3-0.2 2-0.3 0.3-0.1 0.6-0.1 0.9-0.2 0.9 0 1.9-0.1 3-0.2h19.8c5.4 0 9.1 0.9 10.9 2.5q2.7 2.5 2.7 10.6v35.3h41.1v-41.5c0.1-26.6-13.9-39.9-42-39.9h-44.3q-10.1 0-17.6 2.3-19.7 5.9-23.5 26.8c-0.6 3.3-0.9 6.9-0.9 10.8v74.6c0 3.9 0.3 7.6 0.9 10.9 3.4 19.5 16.9 29.3 40.2 29.3h33.5c5.4 0 9 0.8 10.6 2.5 1.7 1.6 2.6 5.2 2.6 10.6v69.2c0 5.4-0.9 9-2.6 10.6q-2.4 2.5-10.6 2.5h-18.9c-0.7 0-1.3 0-1.9-0.1-0.9 15.9-6.5 26.3-13.2 33q1.2 0.1 2.4 0.1h43.8q42.5 0 42.5-39.8v-81.4q0-39.8-41.6-39.8z"/>
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m147.9 178.7h2.2q2.1 0 3.2 1 1.1 1 1.1 3 0 2-1.1 3-1.1 1-3.2 1h-8.9q-2 0-3.1-1-1.1-1-1.1-3 0-2 1.1-3 1.1-1 3.1-1h1.7v2.6h-1.8q-0.9 0-1.3 0.3-0.4 0.4-0.4 1 0 0.7 0.4 1.1 0.4 0.3 1.3 0.3h9.2q0.9 0 1.3-0.3 0.4-0.4 0.3-1.1 0.1-0.6-0.3-1-0.4-0.3-1.3-0.3h-2.4z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m141.2 157.8q-2 0-3.1-1-1.1-1.1-1.1-3.1 0-1.9 1.1-3 1.1-1 3.1-1h8.9q2.1 0 3.2 1 1.1 1.1 1.1 3 0 2-1.1 3.1-1.1 1-3.2 1zm9.1-2.7q0.9 0 1.3-0.4 0.3-0.3 0.3-1 0-0.6-0.3-1-0.4-0.4-1.3-0.4h-9.3q-0.9 0-1.2 0.4-0.4 0.4-0.4 1 0 0.7 0.4 1 0.3 0.4 1.2 0.4z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m154.2 122.8q-0.2 0.1-0.3 0.1-0.1 0.1-0.4 0.1-0.2 0-0.5 0-0.4 0-0.9 0h-2.7q-1.2 0-1.6 0.5-0.5 0.4-0.5 1.3v0.9h6.9v2.7h-17v-4q0-2.1 0.9-3.1 1-0.9 3-0.9h1.3q2.6 0 3.5 1.8 0.4-1.1 1.3-1.5 1-0.3 2.3-0.3h2.6q0.7 0 1.2-0.1 0.4 0 0.9-0.2zm-14.6 2.9h5.2v-1q0-0.8-0.4-1.2-0.4-0.5-1.4-0.5h-1.7q-0.9 0-1.3 0.4-0.4 0.3-0.4 1z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m137.2 95.2q0-2.1 1-3.1 1.1-0.9 3.2-0.9h2.2q2.1 0 3.1 0.9 1.1 1 1.1 3.1v1.2h6.4v2.7h-17zm2.4 1.3h5.8v-1.3q0-0.6-0.4-1-0.3-0.3-1.2-0.3h-2.6q-0.9 0-1.3 0.3-0.3 0.4-0.3 1z"/>
+			</g>
+		</g>
+	</g>
+</svg>
